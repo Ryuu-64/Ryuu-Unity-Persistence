@@ -1,0 +1,16 @@
+{
+  "name": "Ryuu.Unity.Persistence",
+  "rootNamespace": "Ryuu.Unity.Persistence",
+  "references": [
+    "GUID:e1185b6acc4047b45b3ef6ba8db81d7a"
+  ],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
